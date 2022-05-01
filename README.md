@@ -9,7 +9,7 @@
 
 ### Page Preview
 
-![Horiseon](./Develop/assets/images/Horiseon%20screenshot.png)
+![Horiseon](./assets/images/Horiseon%20screenshot.png)
 
 ### Link to Application
 
